@@ -1,43 +1,24 @@
-# Quasar App (atras-va-solo )
-
-El proyecto usa NodeJS en su version 18.15.0
-A Quasar Project
+# 🚀 Nombre del Proyecto
+Aplicacion de trasporte, para la busqueda de rutas y paradas de buses en el departamento de Santa Ana 
  
-## Install the dependencies
+## 🛠️ Tecnologías utilizadas
+*   **Framework:** [Quasar Framework](https://quasar.dev) (Vue.js)
+*   **Estado/Store:** Pinia / Vuex
+*   **Backend/API:** (Node js and Firebase)
 
-```bash
-yarn
-# or
-npm install
-```
+## ✨ Características (Features)
+*   ✅ Autenticación de usuarios.
+*   ✅ Diseño responsive (Mobile First).
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+## 📦 Instalación y Configuración
+Para correr este proyecto localmente, sigue estos pasos:
 
-```bash
-quasar dev
-```
-
-### Lint the files
-
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Format the files
-
-```bash
-yarn format
-# or
-npm run format
-```
-
-### Build the app for production
-
-```bash
-quasar build
-```
+1. Clonar el repo:
+   `git clone https://github.com/ElvisCantaderio/Atrasvasolo.git`
+2. Instalar dependencias:
+   `npm install`
+3. Correr en modo desarrollo:
+   `quasar dev
 
 ### Customize the configuration
 
